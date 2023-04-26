@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am currently a student at [42 Heilbronn](https://www.42heilbronn.de/en). These are my stats:
+
+[![failed to display stats](https://badge42.vercel.app/api/v2/clgxvp2tu005309mfttkvthk6/stats?cursusId=21&coalitionId=159)](https://github.com/JaeSeoKim/badge42)
+
+|  Project  |  Score  |
+|-----------|---------|
+|	[libft](https://github.com/Jonstep101010/libft.git) | [![jschwabe's 42 Libft Score](https://badge42.vercel.app/api/v2/clgxvp2tu005309mfttkvthk6/project/3027475)](https://github.com/JaeSeoKim/badge42)	|
 <!--
 **Jonstep101010/jonstep101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
