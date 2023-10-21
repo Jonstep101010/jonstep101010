@@ -1,26 +1,8 @@
 ### Hi there 👋
 
-I am currently a student at [42 Heilbronn](https://www.42heilbronn.de/en). These are my stats:
 
-[![failed to display stats](https://badge42.vercel.app/api/v2/clgxvp2tu005309mfttkvthk6/stats?cursusId=21&coalitionId=159)](https://github.com/JaeSeoKim/badge42)
+I am currently a student at [42 Heilbronn](https://www.42heilbronn.de/en).
 
-
-<!--
-|  Project  |  Status  |
-|-----------|---------|
-|[libft](https://github.com/Jonstep101010/libft.git)|[![jschwabe's 42 Libft Score](https://badge42.vercel.app/api/v2/clgxvp2tu005309mfttkvthk6/project/3027475)](https://github.com/JaeSeoKim/badge42)|
-[ft_printf](https://github.com/Jonstep101010/ft_printf)|[![jschwabe's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgxvp2tu005309mfttkvthk6/project/3070233)](https://github.com/JaeSeoKim/badge42)
-[get_next_line](https://github.com/Jonstep101010/get_next_line)|[![jschwabe's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgxvp2tu005309mfttkvthk6/project/3063129)](https://github.com/JaeSeoKim/badge42)
-**Jonstep101010/jonstep101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to try new things...
+-  TDD in c using ceedling
+-  rust FFI for integration tests / inline_c
