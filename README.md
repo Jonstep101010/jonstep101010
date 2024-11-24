@@ -9,10 +9,17 @@ I am a student at [42 Heilbronn](https://www.42heilbronn.de/en).
   </a>
 </p>
 
-### experience with:
+### experience with
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=cmake,c,cpp,rust" />
+  </a>
+</p>
+
+### using
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
   </a>
 </p>
 
