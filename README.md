@@ -5,14 +5,14 @@ I am a student at [42 Heilbronn](https://www.42heilbronn.de/en).
 ### Currently learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django" />
+    <img src="https://skillicons.dev/icons?i=svelte,typescript,deno" />
   </a>
 </p>
 
 ### experience with
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,c,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=django,javascript,python,cmake,c,cpp,rust" />
   </a>
 </p>
 
